@@ -1,0 +1,9 @@
+ACTIVIDAD N.2 - SITIO WEB CON CODY AI
+
+1. Abre el archivo index.html con tu navegador.
+2. El sitio funciona localmente y no necesita XAMPP, WAMP ni Laragon.
+3. El asistente de Cody AI ya está integrado con el enlace compartido por el
+   estudiante.
+4. Se necesita conexión a Internet para cargar la imagen dinámica y el chatbot.
+5. Si Cody no se muestra dentro de la página, utiliza el enlace que aparece
+   debajo del asistente para abrirlo en una pestaña nueva.
